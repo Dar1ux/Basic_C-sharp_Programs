@@ -14,13 +14,13 @@ namespace Math_Challenge
             int num2 = 5;
             int result;
             result = num1 + num2;
-            Console.WriteLine(num1.ToString() + " + " + num2.ToString() + " = " + result.ToString());
+            Console.WriteLine(num1.ToString() + " + " + num2.ToString() + " = " + result.ToString()); 
             result = num1 - num2;
-            Console.WriteLine(num1.ToString() + " - " + num2.ToString() + " = " + result.ToString());
+            Console.WriteLine(num1 + " - " + num2 + " = " + result); // Implicit conversion to String is performed on integer variables.
             result = num1 * num2;
-            Console.WriteLine(num1.ToString() + " * " + num2.ToString() + " = " + result.ToString());
+            Console.WriteLine(num1 + " * " + num2 + " = " + result);
             result = num1 / num2;
-            Console.WriteLine(num1.ToString() + " / " + num2.ToString() + " = " + result.ToString());
+            Console.WriteLine(num1 + " / " + num2 + " = " + result);
             Console.ReadLine();
         }
     }

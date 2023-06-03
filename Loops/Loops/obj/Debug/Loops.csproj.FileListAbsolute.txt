@@ -1,0 +1,6 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Loops\Loops\obj\Debug\Loops.pdb

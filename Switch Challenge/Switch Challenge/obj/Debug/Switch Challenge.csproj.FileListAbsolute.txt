@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\bin\Debug\Switch Challenge.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\bin\Debug\Switch Challenge.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\bin\Debug\Switch Challenge.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.pdb

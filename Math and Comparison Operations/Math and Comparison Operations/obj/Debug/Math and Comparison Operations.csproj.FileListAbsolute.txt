@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Math and Comparison Operations\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.pdb
