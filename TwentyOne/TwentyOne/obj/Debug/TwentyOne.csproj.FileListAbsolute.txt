@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
