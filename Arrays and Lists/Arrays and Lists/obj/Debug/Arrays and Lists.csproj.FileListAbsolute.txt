@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\bin\Debug\Arrays and Lists.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Arrays and Lists\Arrays and Lists\obj\Debug\Arrays and Lists.pdb
