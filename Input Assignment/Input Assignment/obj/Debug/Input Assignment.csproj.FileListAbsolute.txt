@@ -1,0 +1,7 @@
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\bin\Debug\Input Assignment.exe.config
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\bin\Debug\Input Assignment.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\bin\Debug\Input Assignment.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\obj\Debug\Input Assignment.csproj.AssemblyReference.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\obj\Debug\Input Assignment.csproj.CoreCompileInputs.cache
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\obj\Debug\Input Assignment.exe
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\Input Assignment\Input Assignment\obj\Debug\Input Assignment.pdb
