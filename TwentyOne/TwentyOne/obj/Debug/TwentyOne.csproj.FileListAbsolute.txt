@@ -5,3 +5,6 @@ C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\Twenty
 C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\djank\Documents\Pitman Training\Basic_C-sharp_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
